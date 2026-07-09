@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Document.aternos.me",
+    "ip": "Document.aternos.me:30482",
     "port": 30482,
     "version": "",
     "try-creative": false
