@@ -8,7 +8,7 @@
   "server": {
     "ip": "Document.aternos.me",
     "port": 30482,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
